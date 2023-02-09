@@ -4,13 +4,12 @@
 <h2 align="bold"><span></span>MD. JOHIRUL ISLAM</h2> <p style="color:DodgerBlue"> [ 1+ Year Experienc ] </p>
  <img align='right'width='300' src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752" alt="coding" />
 
-<br/>
 <h4>
 My goal is to be an expert in full-stack web development. Constantly, In addition to my Mern stack web development, I am Developing
 new skills or knowledge in website development. I want my future to be a full-stack web developer and I have the creative ability to
 update anything. I want to work in this position in your company. Honest and hard work gives me the courage to do work better.
 </h4>
-<br/>
+
 
 <b><b><h4 style="color:DodgerBlue;">● Front-End  :</h4></b> </b> <b> JavaScript, JavaScript Library(React.js, ES6+), API Integration, HTML5, CSS3, Tailwind CSS, DaisyUI, Bootstrap5, ReactBootstrap, etc. </b> 
 <h4 style="color:DodgerBlue;"><b><b> ● Back-End  : </b></b> </h4>
@@ -49,9 +48,8 @@ update anything. I want to work in this position in your company. Honest and har
 <p align="center">
 <a href="https://twitter.com/johirul35265026" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Twitter-logo-png.png" alt="johirul35265026" height="35" width="35" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/johirul-islam99/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/355/355994.png" alt="https://www.linkedin.com/in/johirul-islam99/" height="35" width="35" /></a>
-<a href="https://www.instagram.com/rasel.khan.574206/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="https://stackoverflowteams.com/c/web-developer-bd/users/1/?tab=profile" height="35" width="35" /></a>
+<a href="https://www.instagram.com/rasel.khan.574206/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1868978-1583142.png?f=webp&w=256" alt="https://stackoverflowteams.com/c/web-developer-bd/users/1/?tab=profile" height="35" width="35" /></a>
 <a href="https://fb.com/https://www.facebook.com/rachel.kan.3591267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rachel.kan.3591267" height="35" width="35" /></a>
 <a href="https://discord.gg/Md.Johirul Islam (rasel)#9775" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="https://discord.com/channels/@me/1044256195134902283" height="35" width="35" /></a>
 </p>
 
-<br/>
