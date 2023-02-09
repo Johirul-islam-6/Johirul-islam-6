@@ -1,5 +1,7 @@
 [![MasterHead](https://i.ibb.co/TPRpnvm/gitHub.png)]([https://rishavchanda.io](https://i.ibb.co/TPRpnvm/gitHub.png))
-<img align='right'width='300' src="[https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752](https://i.ibb.co/TPRpnvm/gitHub.png)" alt="coding" />
+
+<a width="100" href="[https://developer.mozilla.org](https://i.ibb.co/TPRpnvm/gitHub.png)" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png?f=webp&w=256" alt="javascript" width="45" height="42"/> </a> 
+
 <br/>
 <h1 align="center">WEB DEVELOPER</h1>
 <h2 align="bold"><span></span>MD. JOHIRUL ISLAM</h2> <p style="color:DodgerBlue"> [ 1+ Year Experienc ] </p>
