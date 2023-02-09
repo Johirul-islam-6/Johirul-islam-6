@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ibb.co/TPRpnvm/gitHub.png)]([https://rishavchanda.io](https://i.ibb.co/TPRpnvm/gitHub.png))
 
-<a width="100" href="[https://developer.mozilla.org](https://i.ibb.co/TPRpnvm/gitHub.png)" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png?f=webp&w=256" alt="javascript" width="45" height="42"/> </a> 
+<a width="100" href="[https://developer.mozilla.org](https://i.ibb.co/TPRpnvm/gitHub.png)" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/TPRpnvm/gitHub.png" alt="javascript" width="45" height="42"/> </a> 
 
 <br/>
 <h1 align="center">WEB DEVELOPER</h1>
