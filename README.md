@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
+[![MasterHead]([https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif](https://i.ibb.co/TPRpnvm/gitHub.png))](https://rishavchanda.io)
 <br/>
 <h1 align="center">WEB DEVELOPER</h1>
 <h2 align="bold"><span></span>MD. JOHIRUL ISLAM</h2> <p style="color:DodgerBlue"> [ 1+ Year Experienc ] </p>
