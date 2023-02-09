@@ -1,6 +1,7 @@
 [![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, My name is Md.Johirul islam</h1>
-<h3 align="center">A passionate Junior web developer from Bangladesh.</h3>
+<br/>
+<h1 align="center">WEB DEVELOPER</h1>
+<h4 align="center">MD.JOHIRUL ISLAM</h3>
  <img align='right'width='300' src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752" alt="coding" />
 
 <br/>
