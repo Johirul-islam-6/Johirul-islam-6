@@ -20,7 +20,7 @@ Hi there, I'm [Johirul Islam [ rasel ]!](https://www.linkedin.com/in/johirul-isl
 
 <p align="center">
 	<a href="https://github.com/Johirul-islam-6">
-		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jahid's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadJahid8&theme=monokai-metallian&hide_border=true&color=default"/></a>
+		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jahid's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Johirul-islam-6&theme=monokai-metallian&hide_border=true&color=default"/></a>
 <p align="center"> Never stop learning, never stop improving, never stop coding.🔥 </p>
 </p>
 
