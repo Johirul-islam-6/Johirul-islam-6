@@ -1,68 +1,128 @@
-<p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77B20&center=true&vCenter=true&width=435&lines=HELLO+%F0%9F%91%8B+I'M+JOHIRUL+ISLAM++;MY+CURRENT+STATUS+IS+-%3E++;Front-End+%26+Mid+Back-End+developer.+;Project+Analyst" alt="Typing SVG" /></a>
+<!-- <h2 align="center">
+  Welcome to Al Siam World!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2> -->
+
+<!-- <p align="center">
+  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p> -->
+
+<a href="https://www.linkedin.com/in/johirul-islam99/"><img align="right" alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Johirul-islam-6&label=Profile%20Views&color=red&style=for-the-badge"/></a>
+
+[👉](https://johir-portfolio.web.app/)
+
+<!-- Intro  -->
+<h4 align="center">
+        <samp> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=70000&color=FFFFFF&center=true&width=120&height=23&lines=%3E+Hey+There!%2C" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=3000&color=FE428E&center=true&width=189&height=23&lines=I'm+Johirul+Islam.;+I'm+from++Bangladesh.+" alt="Typing SVG" /></a>
+        </samp>
+        <p align="center"> 
+  <samp>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=11&duration=3000&pause=70000&color=2F81F7&center=true&width=240&height=15&lines=++++1.5+years+coding+Experience.+%E3%80%8D" alt="Typing SVG" /></a>
+    <br>
+    「 I am a full-stack web application developer with <b>JavaScript</b> 」 
+    <br>
+    <br>
+  </samp>
 </p>
-
-<!-- Social badges section -->
-<p align="center">
-	<a href="https://www.linkedin.com/in/johirul-islam99/"><img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Johirul-islam-6&label=Profile%20Views&color=red&style=for-the-badge"/></a>
-	<a href="https://github.com/Johirul-islam-6?tab=repositories"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Johirul-islam-6"/></a>
-  	<a href="https://github.com/Johirul-islam-6?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Johirul-islam-6?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-	
-</p>
-
-<hr/>
-
-<!-- Introduction -->
-
-Hi there, I'm [Johirul Islam [ rasel ]!](https://www.linkedin.com/in/johirul-islam99/) I specialize in Mern stack development and have hands-on experience working with modern web development practices and technologies. With a strong understanding of software design principles and a knack for problem-solving, I strive to create innovative solutions that meet business objectives.
-
-## 🔥 Streak Stats
+</h4>
 
 <p align="center">
-	<a href="https://github.com/Johirul-islam-6">
-		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jahid's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Johirul-islam-6&theme=monokai-metallian&hide_border=true&color=default"/></a>
-<p align="center"> Never stop learning, never stop improving, never stop coding.🔥 </p>
+ <a href="https://johir-portfolio.web.app/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="johir" />
+ </a>
+ <a href="https://www.linkedin.com/in/johirul-islam99/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkein johir"/>
+ </a>
+ <!-- <a href="https://dev.to/alsiam" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ </a> -->
+ <a href="https://twitter.com/Masti50678584" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://www.instagram.com/mr.raselkhan100/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Rasel" />
+ </a> 
+ <a href="https://www.facebook.com/rasel2023boss" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Rasel Khan"  />
+  </a> 
 </p>
+<br />
 
-## 🧠 My Skills
+<!-- About Section -->
 
-### 💻 Software, Languages, Frameworks, and Tools continue exploring
+# About me
 
 <p>
-	<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-	<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-	<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-	<a href="#"><img alt="Mui" src="https://img.shields.io/badge/Material-UI-blue.svg?logo=mui"></a>
-	<a href="#"><img alt="taiwindcss" src="https://img.shields.io/badge/Tailwind%20CSS-blue.svg?logo=tailwind-css"></a>
-    	<a href="#"><img alt="antd" src="https://img.shields.io/badge/Ant%20Design-red.svg?logo=ant-design"></a>
-	<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-	<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-white.svg?logo=typescript"></a>
-    	<a href="#"><img alt="React" src="https://img.shields.io/badge/React-Js-blue.svg?logo=react"></a>
-	<a href="#"><img alt="nextjs" src="https://img.shields.io/badge/Next.js-black.svg?logo=next.js"></a>
-	<a href="#"><img alt="node" src="https://img.shields.io/badge/Node.js-darkgreen.svg?logo=node.js&logoColor=white"></a>
-    	<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-	<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    	<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-	<a href="#"><img alt="Gitbash" src="https://img.shields.io/badge/Gitbash-DD1100.svg?logo=github&logoColor=white"></a>
-    	<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-	<a href="#"><img alt="express" src="https://img.shields.io/badge/Express.js-grey.svg?logo=express"></a>
-	<a href="#"><img alt="figma" src="https://img.shields.io/badge/Figma-purple.svg?logo=figma"></a>
-	<a href="#"><img alt="postman" src="https://img.shields.io/badge/Postman-orange.svg?logo=postman&logoColor=red"></a>
-	<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-	<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-	<a href="#"><img alt="render" src="https://img.shields.io/badge/Render-grey.svg?logo=render"></a>
-	<a href="#"><img alt="openai" src="https://img.shields.io/badge/OpenAI-blue.svg?logo=openai"></a>
+ <img align="right" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: johirulislam574206@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [contact here](https://johir-portfolio.web.app/contact)
+
 </p>
 
-## 🙋‍♂️ Let's Connect
+<br/>
+<br/>
+<br/>
 
-<div align="center">
-	<a href="https://github.com/Johirul-islam-6" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title="Github Profile" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/johirul-islam99/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="Linkedin Profile" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/rasel2023boss" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" title="Facebook Profile" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/mr.raselkhan100/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" title="Instagram Profile" alt="Instagram"/></a>
-	<a href="mailto:johirkhan.programmer@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
-</div>
-  
+## Languages, Frameworks continue exploring
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Tools
+
+<a href="#"><img alt="Gitbash" src="https://img.shields.io/badge/Gitbash-DD1100.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="figma" src="https://img.shields.io/badge/Figma-purple.svg?logo=figma"></a>
+<a href="#"><img alt="postman" src="https://img.shields.io/badge/Postman-orange.svg?logo=postman&logoColor=red"></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+<a href="#"><img alt="render" src="https://img.shields.io/badge/Render-grey.svg?logo=render"></a>
+<a href="#"><img alt="openai" src="https://img.shields.io/badge/OpenAI-blue.svg?logo=openai"></a>
+
+<br/>
+
+## Top Open Source -
+
+[![travel-xone](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Johirul-islam-6/travel-xone-client.git)
+[![Event Management](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Johirul-islam-6/event-management-client.git)
+<br/>
+
+<p align="left">
+  <a href="https://github.com/Johirul-islam-6?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+<a> 
+    <a href="https://github.com/alsiam"><img alt="Al Johir Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Al Johir Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+ <br/> <br/> 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=10000&color=F72CE5&center=true&width=240&height=22&lines=Thake+you+Sir+%F0%9F%A5%B0+%E3%80%8D" alt="Typing SVG" /></a>
+</p>
+<br/>
