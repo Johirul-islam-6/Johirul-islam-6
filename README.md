@@ -12,7 +12,7 @@
 [👉](https://johir-portfolio.web.app/)
 
 <!-- Intro  -->
-<h4 align="center">
+<h3 align="center">
         <samp> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=70000&color=FFFFFF&center=true&width=120&height=23&lines=%3E+Hey+There!%2C" alt="Typing SVG" /></a>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=3000&color=FE428E&center=true&width=189&height=23&lines=I'm+Johirul+Islam.;+I'm+from++Bangladesh.+" alt="Typing SVG" /></a>
         </samp>
