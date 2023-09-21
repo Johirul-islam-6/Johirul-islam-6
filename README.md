@@ -18,7 +18,7 @@
         </samp>
         <p align="center"> 
   <samp>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=11&duration=3000&pause=70000&color=2F81F7&center=true&width=240&height=15&lines=++++1.5+years+coding+Experience.+%E3%80%8D" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=11&duration=3000&pause=70000&color=2F81F7&center=true&width=240&height=15&lines=++++2+years+coding+Experience.+%E3%80%8D" alt="Typing SVG" /></a>
     <br>
     「 I am a full-stack web application developer with <b>JavaScript</b> 」 
     <br>
